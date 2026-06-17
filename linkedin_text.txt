@@ -1,0 +1,382 @@
+Luke Renton | LinkedIn
+Feed | LinkedIn
+0 notifications
+Skip to search
+Skip to main content
+Skip to sidebar
+Skip to primary content
+Skip to aside
+Home
+My Network
+Jobs
+Messaging
+Notifications
+Me
+For Business
+Hire with AI
+Luke Renton
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+Resources
+Enhance profile
+Add section
+Open to
+Luke Renton
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+Industrial Data Xchange (IDX) · University of the Witwatersrand
+City of Johannesburg, Gauteng, South Africa
+·
+Contact info
+Industrial Data Xchange (IDX)
+University of the Witwatersrand
+500+ connections
+Open to
+Add section
+Enhance profile
+Resources
+Open to
+Add section
+Enhance profile
+Analytics
+Private to you
+94 profile views
+Discover who’s viewed your profile.
+34 post impressions
+Check out who’s engaging with your posts.
+Past 7 days
+33 search appearances
+See how often you appear in search results.
+94 profile views
+Discover who’s viewed your profile.
+34 post impressions
+Check out who’s engaging with your posts.
+Past 7 days
+33 search appearances
+See how often you appear in search results.
+Show all
+About
+Nisi Dominus Frustra
+Activity
+792 followers
+Create a post
+Posts
+Comments
+Images
+Luke Renton
+• You
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+6mo •
+Crazy to think I've already finished post grad... what an incredible year it's been! Couldn't be happier with the success I've had this year (glory to God) and looking forward to the working world 🔥
+Big things coming @
+Industrial Data Xchange (IDX)
+👀
+…
+more
+515 reactions
+515
+25 comments
+•
+2 reposts
+Like
+Comment
+Repost
+Send
+25,737 impressions
+View analytics
+Luke Renton
+• You
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+6mo •
+I’m incredibly grateful to share that I won the Best Applied Project Award (2025) at the Wits Innovation Day, sponsored by
+PYGIO
+.
+My honours research focused on a problem that sits at the intersection of AI, privacy, and digital heritage:
+👉 How do we responsibly digitise historical documents without exposing sensitive personal information?
+I developed a confidence-driven adaptive preprocessing pipeline that dynamically processes each document based on its unique degradation. This simple but powerful idea improved redaction accuracy by 28.5% compared to static, one-size-fits-all redaction pipelines.
+This award means a lot, but it wouldn’t have been possible without the invaluable support and guidance of my supervisors, Dr
+Steven James
+and Dr
+Benjamin Rosman
+.
+I’m excited about the real-world impact this approach can have, especially for privacy-preserving digitisation initiatives in South Africa and beyond.
+#machinelearning
+#ocr
+#nlp
+#research
+#privacy
+#digitisation
+…
+more
+1/3
+284 reactions
+284
+23 comments
+Like
+Comment
+Repost
+Send
+8,959 impressions
+View analytics
+Luke Renton
+• You
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+1yr •
+I’m super proud to announce that I have finished my undergraduate degree in Computer Science (Cum Laude). Onto honours!
+237 reactions
+237
+31 comments
+•
+1 repost
+Like
+Comment
+Repost
+Send
+8,033 impressions
+View analytics
+Luke Renton
+• You
+IDX Innovations Lead | Shipping AI Agents, Automation & Data Platforms That Scale Operations & Revenue
+1yr •
+I'm very excited to share that over the past couple of months I have co-founded a email marketing tool service called "Email Finder Tool" and will be acting as CIO for the company going forward.
+It's remarkable to see how much we have been able to accomplish in just a few months and I cannot wait to see how much more we will achieve in the months to follow.
+Go check it out now!
+https://lnkd.in/duhtr8ug
+…
+more
+34 reactions
+34
+3 comments
+•
+1 repost
+Like
+Comment
+Repost
+Send
+2,100 impressions
+View analytics
+Show all posts
+Experience
+IDX Innovations Lead
+Industrial Data Xchange (IDX) · Full-time
+Jan 2026 - Present · 6 mos
+City of Johannesburg, Gauteng, South Africa · On-site
+Lead in IDX innovation initiatives, designing and building intelligent systems that automate workflows, improve data quality, enhance supplier integrations, and create scalable internal tools. My role blends product strategy, software engineering, AI/ML implementation, and business process optimization.
+…
+more
+CIO
+Email Finder Tool · Full-time
+Apr 2024 - Apr 2025 · 1 yr 1 mo
+Remote
+Chief Information Officer for email finder tool: overseeing, maintaining and building systems architecture to find emails and find them fast.
+https://emfito.com
+Junior Software Developer
+University of the Witwatersrand · Part-time
+Oct 2023 - Dec 2024 · 1 yr 3 mos
+City of Johannesburg, Gauteng, South Africa · Hybrid
+My two friends and I initially sat down with the heads of numerous ICT departments as well as our Dean and Deputy Dean at WITS to propose solutions to enhance our university and improve the every day life of a student and employee.
+After which we got hired by the ICT department to create a new department called "Enhancing WITS" in which we develop solutions to improve every WITS goers daily life.
+…
+more
+Software Infrastructure, Java and +1 skill
+Software Developer
+Upwork · Freelance
+Jul 2023 - Jul 2024 · 1 yr 1 mo
+City of Johannesburg, Gauteng, South Africa · Remote
+I've done numerous different kinds of jobs on Upwork with a focus in webscraping. You can check my profile to see all the different jobs I've done: https://www.upwork.com/freelancers/~01c9c488d4b8f33255
+Web Scraping
+IDX Software Engineer intern
+Industrial Data Xchange (IDX) · Internship
+Jan 2023 - Feb 2023 · 2 mos
+City of Johannesburg, Gauteng, South Africa · On-site
+I spent 5 weeks as a second year computer science student at a company called Industrial Data Xchange (IDX). The first two weeks was a group internship students from different degrees and universities, thereafter, I was hired on to their developer team for the remaining 3 weeks of my school holiday to create a website hosted on an ESP32 chip which could be interacted with remotely to get readings from the device and connected sensors as well as customize the devices behavior.
+Home - Industrial Data Xchange (IDX)
+C++, ESP32 Microcontrollers and +1 skill
+Education
+University of the Witwatersrand
+Bachelor of Science Honours - BScHons, Computer Science
+Jan 2025 – Dec 2025
+Grade: 4.0 GPA (cum laude)
+Top achiever in CS Honours
+Deans List
+Full Academic Scholarship
+…
+more
+University of the Witwatersrand
+Bachelor of Science - BSc, Computer Science
+Jan 2022 – Dec 2024
+Grade: 4.0 GPA (cum laude)
+Deans List - Final Year
+Skills (7)
+Web Scraping
+Software Developer at Upwork
+1 endorsement
+C++
+IDX Software Engineer intern at Industrial Data Xchange (IDX)
+1 endorsement
+Show all
+Honors & awards (5)
+WITS Innovation day CGV Project - 1st Place
+Issued by University of the Witwatersrand · Nov 2024
+Associated with University of the Witwatersrand
+As one of the top 3 projects in our degree for our Computer Graphics and Visualisation final project we were selected to present our project at the WITS Innovation day. On the day after presentations we placed in 1st place winning the best CGV project award.
+…
+more
+Project rewards for Innovation Day
+WITS Innovation day SD project - 2nd Place
+Issued by BBD · Nov 2024
+Associated with University of the Witwatersrand
+As one of the top 3 projects in our degree for our Software Design final project we were selected to present our project at the WITS Innovation day. On the day after presentations we placed in 2nd place.
+Receiving awards from BBD
+Show all 5 honors & awards
+Interests
+Companies
+Newsletters
+Schools
+Claude, Company
+Claude
+2,427,094 followers
+Following
+QuantumBlack, AI by McKinsey, Company
+QuantumBlack, AI by McKinsey
+245,704 followers
+Following
+Show all
+Profile language
+English
+Public profile & URL
+www.linkedin.com/in/luke-renton-862892287
+Ad Options
+Why am I seeing this ad?
+Manage your ad preferences
+Hide or report this ad
+I don’t want to see this ad in my feed
+Don’t want to see this
+Tell us why you don’t want to see this
+Your feedback will help us improve your experience
+It’s annoying or not interesting
+I’ve seen the same ad too often
+If you think this goes against our Professional Community Policies, please let us know.
+Report this ad
+Submit
+Who your viewers also viewed
+Private to you
+Founder in the Software Development industry from Johannesburg Metropolitan Area
+View
+Software Developer at Entelect
+View
+Someone at Appstrax Technology (Pty) Ltd
+View
+Research Fellow at University of the Witwatersrand
+View
+People you may know
+From your school
+Jonathan Kariv
+· 2nd
+Lecturer in Computer Science, Wits University
+Connect
+Bophelo Muhammed Morake
+· 2nd
+Final year Student at University of the Witwatersrand
+Connect
+Takudzwa Mhizha
+· 2nd
+Wits Computer Science Graduate persuing Honours in Big Data Analytics
+Connect
+Phomolo Mokuele
+· 3rd
+Student at University of the Witwatersrand
+Connect
+Ethan Jordan Dhavaran
+· 2nd
+Software Engineer @ Entelect
+Connect
+Show all
+You might like
+Pages for you
+Entelect
+IT Services and IT Consulting
+86,729 followers
+Keren & 15 other connections work here
+Follow
+Nedbank
+Financial Services
+781,842 followers
+Devesh & 4 other connections work here
+Follow
+Show all
+Ad Options
+Why am I seeing this ad?
+Manage your ad preferences
+Hide or report this ad
+I don’t want to see this ad in my feed
+Don’t want to see this
+Tell us why you don’t want to see this
+Your feedback will help us improve your experience
+It’s annoying or not interesting
+I’ve seen the same ad too often
+If you think this goes against our Professional Community Policies, please let us know.
+Report this ad
+Submit
+About
+Accessibility
+Talent Solutions
+Community Guidelines
+Careers
+Marketing Solutions
+Privacy & Terms
+Ad Choices
+Advertising
+Sales Solutions
+Mobile
+Small Business
+Safety Center
+LinkedIn Corporation © 2026
+Questions?
+Visit our Help Center.
+Manage your account and privacy
+Go to your Settings.
+Recommendation transparency
+Learn more about Recommended Content.
+Select language
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Status is online
+Messaging
+You are on the messaging overlay. Press enter to open the list of conversations.
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+Next-up
+Your download's being scanned. We'll let you know if there's an issue.

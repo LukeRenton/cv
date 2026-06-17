@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Luke Renton CV</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --muted: #4a4a4a;
+    --faint: #777;
+    --accent: #1f3a5c;        /* deep navy, conservative, standard */
+    --rule: #d9d9d9;
+    --bg: #ffffff;
+    --page-w: 210mm;          /* A4 */
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0; padding: 0;
+    background: #ebecee;
+    color: var(--ink);
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    font-size: 10.3px;
+    line-height: 1.42;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .helper {
+    max-width: var(--page-w);
+    margin: 18px auto 8px;
+    padding: 9px 16px;
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .helper b { color: var(--ink); }
+  .helper code { background:#eef0f3; padding:1px 5px; border-radius:4px; color:var(--accent); font-size:11px; }
+
+  .page {
+    width: var(--page-w);
+    min-height: 297mm;
+    margin: 0 auto 30px;
+    padding: 13mm 15mm 12mm;
+    background: var(--bg);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+  }
+
+  /* ---------------- Header ---------------- */
+  header { display: flex; justify-content: space-between; align-items: flex-end; gap: 20px; }
+  .name {
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    margin: 0;
+    color: var(--ink);
+  }
+  .tagline {
+    margin: 7px 0 0;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .contact {
+    text-align: right;
+    font-size: 9.5px;
+    color: var(--muted);
+    line-height: 1.6;
+    white-space: nowrap;
+  }
+  .contact a { color: var(--muted); text-decoration: none; }
+  .contact .cit { color: var(--ink); font-weight: 600; }
+
+  .toprule { height: 2px; background: var(--accent); margin: 9px 0 0; }
+
+  /* ---------------- Summary ---------------- */
+  .summary { margin: 11px 0 2px; font-size: 10.5px; line-height: 1.5; color: var(--ink); }
+  .summary b { font-weight: 600; }
+
+  /* ---------------- Sections ---------------- */
+  section { margin-top: 12px; }
+  h2 {
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 7px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .entry { margin-bottom: 8px; }
+  .entry:last-child { margin-bottom: 0; }
+  .entry-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .role { font-weight: 600; font-size: 10.7px; color: var(--ink); }
+  .org { font-weight: 600; color: var(--accent); }
+  .meta { font-size: 9.3px; color: var(--faint); white-space: nowrap; font-weight: 500; }
+  ul { margin: 3px 0 0; padding-left: 14px; }
+  li { margin: 1.5px 0; line-height: 1.42; }
+  li::marker { color: var(--accent); }
+
+  a.link { color: var(--accent); text-decoration: none; font-weight: 500; }
+
+  .row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin-bottom: 3px; }
+  .credits { color: var(--muted); font-size: 9.8px; }
+
+  .award-list { margin: 0; padding-left: 14px; columns: 2; column-gap: 26px; }
+  .award-list li { margin: 2px 0; break-inside: avoid; }
+
+  .skills { font-size: 9.9px; line-height: 1.65; color: var(--ink); }
+  .skills .grp { color: var(--faint); font-weight: 600; }
+  .proj-meta { color: var(--faint); font-weight: 500; }
+
+  @media print {
+    html, body { background: #fff; font-size: 10.1px; }
+    .helper { display: none; }
+    .page { box-shadow: none; margin: 0; width: auto; min-height: auto; padding: 11mm 12mm; }
+    @page { size: A4; margin: 0; }
+    a { color: var(--accent); }
+  }
+</style>
+</head>
+<body>
+
+  <div class="helper">
+    <b>To export a PDF:</b> press <code>Ctrl/Cmd&nbsp;+&nbsp;P</code> → Destination <b>Save as PDF</b> → Margins <b>Default</b> → tick <b>Background graphics</b>.
+  </div>
+
+  <div class="page">
+
+    <!-- ===================== HEADER ===================== -->
+    <header>
+      <div>
+        <h1 class="name">Luke Renton</h1>
+        <p class="tagline">Software Engineer &amp; Founder · Building on Claude</p>
+      </div>
+      <div class="contact">
+        <span class="cit">US Citizen · Open to relocation</span><br />
+        Johannesburg, South&nbsp;Africa<br />
+        <a href="mailto:luke.renton@icloud.com">luke.renton@icloud.com</a><br />
+        <a href="https://github.com/LukeRenton">github.com/LukeRenton</a> · <a href="https://www.linkedin.com/in/luke-renton-862892287">linkedin.com/in/luke-renton</a>
+      </div>
+    </header>
+    <div class="toprule"></div>
+
+    <!-- ===================== SUMMARY ===================== -->
+    <p class="summary">
+      Software engineer and founder. I graduated <b>top of my Computer Science class</b> at the University of the Witwatersrand (4.0&nbsp;GPA, <i>cum laude</i>, full scholarship), and have spent <b>3+&nbsp;years building production software</b> for clients and my own startups. Lately most of that work is AI: tools and automations built on Claude, several of them live and open-source.
+    </p>
+
+    <!-- ===================== EXPERIENCE ===================== -->
+    <section>
+      <h2>Experience</h2>
+
+      <div class="entry">
+        <div class="entry-head">
+          <span><span class="role">Innovations Lead</span> · <span class="org">Industrial Data Xchange (IDX)</span></span>
+          <span class="meta">Jan 2026 – Present · Johannesburg</span>
+        </div>
+        <ul>
+          <li>Lead IDX's AI innovation work: I build the internal tools and automations that speed up operations, improve data quality, and connect supplier systems.</li>
+          <li>Sit with clients and internal teams to work out where AI actually helps, then build, demo, and ship it. A lot of the role is discovery and pitching.</li>
+          <li>Use Claude Code every day to build and run production automation.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry-head">
+          <span><span class="role">Co-Founder &amp; CIO</span> · <span class="org">Emfito (Email Finder Tool)</span></span>
+          <span class="meta">Apr 2024 – Apr 2025 · Remote</span>
+        </div>
+        <ul>
+          <li>Co-founded an email-finding tool and ran the technical side, designing the system that finds and verifies email addresses fast (<a class="link" href="https://emfito.com">emfito.com</a>).</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry-head">
+          <span><span class="role">Software Developer, founding member of "Enhancing Wits"</span> · <span class="org">University of the Witwatersrand</span></span>
+          <span class="meta">Oct 2023 – Dec 2024 · Hybrid</span>
+        </div>
+        <ul>
+          <li>Pitched a plan to improve daily life for students and staff to the ICT department heads, Dean, and Deputy Dean. They hired us to start a new software team to build it.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry-head">
+          <span><span class="role">Freelance Developer &amp; Claude Code Tutor</span> · <span class="org">Upwork</span></span>
+          <span class="meta">Jul 2023 – Present · Remote</span>
+        </div>
+        <ul>
+          <li>Built web-scraping and automation projects for clients across a range of industries.</li>
+          <li>More recently, teaching individuals and teams to integrate Claude into their work and build with it.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===================== PROJECTS ===================== -->
+    <section>
+      <h2>Selected Projects</h2>
+      <ul>
+        <li><b>nextup</b> <span class="proj-meta">· <a class="link" href="https://next-up.co.za">next-up.co.za</a></span><br />
+          A live pickleball platform that runs club league nights: continuous rolling games over a timeslot, with automatic match-ups, court assignments, and live leaderboards. Players check in, partner up, and get buzzed when their next match and court are ready. I built the first version solo with Claude; as it grew into a paying product used by real clubs and players, I brought on two developers and moved to architecture and the business side.</li>
+        <li><b>explore-claude-code</b> <span class="proj-meta">· open-source · <a class="link" href="https://exploreclaudecode.com">exploreclaudecode.com</a></span><br />
+          An interactive guide to Claude Code: you click through a simulated project to learn how MCP servers, sub-agents, agent skills, hooks, and config actually work.</li>
+        <li><b>Matins</b> <span class="proj-meta">· <a class="link" href="https://matins.news">matins.news</a></span><br />
+          A daily, AI-written brief on what changed in Claude Code. A Python pipeline pulls sources, analyses them with Claude, and emails subscribers, running by itself each day on a scheduled Anthropic cloud routine. Site built in Astro.</li>
+        <li><b>Other ventures.</b> Early-stage products I have founded, including <a class="link" href="https://clickt.link">clickt.link</a> and <a class="link" href="https://me2you.world">me2you.world</a>.</li>
+      </ul>
+    </section>
+
+    <!-- ===================== EDUCATION ===================== -->
+    <section>
+      <h2>Education</h2>
+      <div class="row">
+        <span><span class="role">BSc Honours, Computer Science</span> · <span class="org">University of the Witwatersrand</span></span>
+        <span class="meta">2025</span>
+      </div>
+      <div class="credits" style="margin:-1px 0 5px;">
+        4.0&nbsp;GPA, <i>cum laude</i> · top of the class · Dean's List · full academic scholarship.<br />
+        Honours research with <b>Dr Benjamin Rosman</b> (named to TIME's 100 Most Influential in AI, 2025) and Dr Steven James: I built an adaptive preprocessing pipeline for privacy-preserving document scanning that improved redaction accuracy by <b>28.5%</b> over a fixed pipeline. Won <b>Best Applied Project</b> at Wits Innovation Day.
+      </div>
+      <div class="row">
+        <span><span class="role">BSc, Computer Science</span> · <span class="org">University of the Witwatersrand</span></span>
+        <span class="meta">2022 – 2024</span>
+      </div>
+      <div class="credits" style="margin:-1px 0 0;">4.0&nbsp;GPA, <i>cum laude</i> · Dean's List.</div>
+    </section>
+
+    <!-- ===================== AWARDS ===================== -->
+    <section>
+      <h2>Awards &amp; Recognition</h2>
+      <ul class="award-list">
+        <li>Winner, African Innovation Challenge (Kigali, Rwanda), representing Wits among 17 universities.</li>
+        <li>ABSA Top 30 Emerging Entrepreneurs.</li>
+        <li>Best Applied Project, Wits Innovation Day 2025.</li>
+        <li>1st place, Computer Graphics &amp; Visualisation, Wits Innovation Day 2024.</li>
+        <li>2nd place, Software Design, Wits Innovation Day 2024.</li>
+        <li>Full academic scholarship; Dean's List (multiple years).</li>
+      </ul>
+    </section>
+
+    <!-- ===================== SKILLS ===================== -->
+    <section>
+      <h2>Technical Skills</h2>
+      <p class="skills">
+        <span class="grp">Languages:</span> Python · TypeScript · JavaScript · Java · C++<br />
+        <span class="grp">AI &amp; Claude:</span> Claude &amp; Claude Code · MCP servers · sub-agents · agent skills · hooks · prompt engineering · AI pipelines &amp; automation<br />
+        <span class="grp">Engineering:</span> systems architecture · web scraping · data tooling · Astro · git &nbsp;&nbsp; <span class="grp">Other:</span> customer discovery · demos &amp; pitching
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>
